@@ -1,5 +1,5 @@
 # Weather_app
-My first useless website ig?
+My first project 
 <br>
 Author - Nyxiaz
 <br>
